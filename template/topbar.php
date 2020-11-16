@@ -102,7 +102,7 @@
                     </li>
                 </ul>
             </li>
-            <li class="border-left pl-3 pr-3">
+            <li class="border-left pl-3 pr-3 loginSignup">
                 <button class="btn btn-outline mr-3 b-r-md dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Sign in</button>
                 <div class="dropdown-menu b-r-lg dropdown-menu-right px-4 py-4" aria-labelledby="dropdownMenuButton">
                     <form action="">

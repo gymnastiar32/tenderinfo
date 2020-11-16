@@ -92,7 +92,7 @@ select.form-control:not([size]):not([multiple]){
     background-color: #005db5;
     color: white !important;
 }
-.navbar-static-top .dropdown-menu{
+.navbar-static-top .loginSignup .dropdown-menu{
     right: 120px;
 }
 /* Start Sidebar */
