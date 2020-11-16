@@ -1,5 +1,4 @@
 <?php include "template/header.php"; ?>
-<?php include "template/topbar.php"; ?>
 <?php include "template/sidebar.php"; ?>
 <?php include "template/pageheader.php"; ?>
 
@@ -7,7 +6,7 @@
     <div class="row">
         <div class="col-xl-3 col-md-6">
             <div class="ibox">
-                <div class="widget-head-color-box white-bg px-3 py-4 text-center">
+                <div class="widget-head-color-box mt-0 white-bg px-3 py-4 text-center">
                     <div class="row">
                         <div class="col-md-8 text-left">
                             <h2 class="font-bold text-primary m-0" style="font-size: 32px; font-weight:800;">27,443</h2>
@@ -25,7 +24,7 @@
         </div>
         <div class="col-xl-3 col-md-6">
             <div class="ibox">
-                <div class="widget-head-color-box white-bg px-3 py-4 text-center">
+                <div class="widget-head-color-box mt-0 white-bg px-3 py-4 text-center">
                     <div class="row">
                         <div class="col-md-8 text-left">
                             <h2 class="font-bold text-primary m-0" style="font-size: 32px; font-weight:800;">904</h2>
@@ -43,7 +42,7 @@
         </div>
         <div class="col-xl-3 col-md-6">
             <div class="ibox">
-                <div class="widget-head-color-box white-bg px-3 py-4 text-center">
+                <div class="widget-head-color-box mt-0 white-bg px-3 py-4 text-center">
                     <div class="row">
                         <div class="col-md-8 text-left">
                             <h2 class="font-bold text-primary m-0" style="font-size: 32px; font-weight:800;">275</h2>
@@ -61,7 +60,7 @@
         </div>
         <div class="col-xl-3 col-md-6">
             <div class="ibox">
-                <div class="widget-head-color-box white-bg px-3 py-4 text-center">
+                <div class="widget-head-color-box mt-0 white-bg px-3 py-4 text-center">
                     <div class="row">
                         <div class="col-md-8 text-left">
                             <h2 class="font-bold text-primary m-0" style="font-size: 32px; font-weight:800;">9,386</h2>
@@ -81,15 +80,15 @@
     <div class="row">
         <div class="col-md-6">
             <div class="ibox notif py-4 px-3 white-bg">
-                <i class="fa fa-ban text-danger mr-2" style="font-size:1rem;"></i>
-                <span class="text-danger h6"><strong>Pemberitahuan</strong></span>
+                <i class="fa fa-ban text-warning mr-2" style="font-size:1rem;"></i>
+                <span class="text-warning h6"><strong>Pemberitahuan</strong></span>
                 <p class="font-bold mt-2 mb-0">PENGADAAN.COM TIDAK MEMILIKI afiliasi/kerjasama dengan website lain, serta dibuat & dikelola oleh, <a href="" class="font-italic text-primary">PT. Anggada Duta Wisesa</a></p>
             </div>
         </div>
         <div class="col-md-6">
             <div class="ibox notif py-4 px-3 white-bg">
-                <i class="fa fa-ban text-danger mr-2" style="font-size:1rem;"></i>
-                <span class="text-danger h6"><strong>Sistem Informasi Pengadaan Darurat (SIRAT)</strong></span>
+                <i class="fa fa-ban text-warning mr-2" style="font-size:1rem;"></i>
+                <span class="text-warning h6"><strong>Sistem Informasi Pengadaan Darurat (SIRAT)</strong></span>
                 <p class="font-bold mt-2 mb-0">Sebuah sistem pengadaan darurat alat kesehatan dalam rangka penanganan Covid-19 di Indonesia. Untuk lebih lanjut, <a href="" class="font-italic text-primary">kunjungi website SIRAT disini.</a></p>
             </div>
         </div>

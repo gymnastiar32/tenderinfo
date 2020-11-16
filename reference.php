@@ -1,5 +1,5 @@
 <?php include "template/header.php"; ?>
-<?php include "template/topbar.php"; ?>
+
 <?php include "template/sidebar.php"; ?>
 <?php include "template/pageheader.php"; ?>
 
@@ -16,7 +16,7 @@
             </div>
             <div class="ibox-content">
                 <table class="table table-bordered">
-                    <thead >
+                    <thead>
                         <tr>
                             <th>#</th>
                             <th>Dokumen</th>
@@ -32,7 +32,7 @@
                                 <a href="">Permen BAPPENAS Tentang eProc</a>
                             </td>
                             <td>
-                            Peraturan Menteri PPN/Kepala Bappenas No. Per.002/M.PPN/04/2007, Tentang Pedoman Pelaksanaan Pengadaan.
+                                Peraturan Menteri PPN/Kepala Bappenas No. Per.002/M.PPN/04/2007, Tentang Pedoman Pelaksanaan Pengadaan.
                             </td>
                         </tr>
                         <tr>
@@ -43,7 +43,7 @@
                                 <a href="">Permen BAPPENAS Tentang eProc</a>
                             </td>
                             <td>
-                            Peraturan Menteri PPN/Kepala Bappenas No. Per.002/M.PPN/04/2007, Tentang Pedoman Pelaksanaan Pengadaan.
+                                Peraturan Menteri PPN/Kepala Bappenas No. Per.002/M.PPN/04/2007, Tentang Pedoman Pelaksanaan Pengadaan.
                             </td>
                         </tr>
                         <tr>
@@ -54,7 +54,7 @@
                                 <a href="">Permen BAPPENAS Tentang eProc</a>
                             </td>
                             <td>
-                            Peraturan Menteri PPN/Kepala Bappenas No. Per.002/M.PPN/04/2007, Tentang Pedoman Pelaksanaan Pengadaan.
+                                Peraturan Menteri PPN/Kepala Bappenas No. Per.002/M.PPN/04/2007, Tentang Pedoman Pelaksanaan Pengadaan.
                             </td>
                         </tr>
                         <tr>
@@ -65,7 +65,7 @@
                                 <a href="">Permen BAPPENAS Tentang eProc</a>
                             </td>
                             <td>
-                            Peraturan Menteri PPN/Kepala Bappenas No. Per.002/M.PPN/04/2007, Tentang Pedoman Pelaksanaan Pengadaan.
+                                Peraturan Menteri PPN/Kepala Bappenas No. Per.002/M.PPN/04/2007, Tentang Pedoman Pelaksanaan Pengadaan.
                             </td>
                         </tr>
                         <tr>
@@ -76,7 +76,7 @@
                                 <a href="">Permen BAPPENAS Tentang eProc</a>
                             </td>
                             <td>
-                            Peraturan Menteri PPN/Kepala Bappenas No. Per.002/M.PPN/04/2007, Tentang Pedoman Pelaksanaan Pengadaan.
+                                Peraturan Menteri PPN/Kepala Bappenas No. Per.002/M.PPN/04/2007, Tentang Pedoman Pelaksanaan Pengadaan.
                             </td>
                         </tr>
                     </tbody>

@@ -19,8 +19,8 @@
                 <li class="menu">
                     <a href="index.html"><i class="fas fa-info"></i><span class="nav-label">Tender</span><span class="fa arrow"></span></a>
                     <ul class="nav nav-second-level">
-                        <li><a href=""><i class="fas fa-circle"></i>Active Tender Info</a></li>
-                        <li><a href=""><i class="far fa-circle"></i>Free Tender Info</a></li>
+                        <li><a href="activetender.php"><i class="fas fa-circle"></i>Active Tender Info</a></li>
+                        <li><a href="freetender.php"><i class="far fa-circle"></i>Free Tender Info</a></li>
                     </ul>
                 </li>
                 <li class="menu">
