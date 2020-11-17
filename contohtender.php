@@ -15,7 +15,7 @@
                     </div>
                 </div>
                 <div class="ibox-content">
-                    <div class="text-center font-bold article-title">
+                    <div class="text-center font-bold pb-2 my-5">
                         <h2 class="font-bold">
                             BOB PT. BUMI SIAK PUSAKO - PERTAMINA HULU
                         </h2>

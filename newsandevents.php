@@ -30,7 +30,7 @@
                                 <td><span class="label label-danger">new</span></td>
                                 <td>
                                     <span class="block text-muted">Friday, 06 Nov 2020</span>
-                                    <a href="" class="block text-primary">Kpk Peringatkan Calon Kepala Daerah Soal Kepentingan Sponsor Pilkada Penulis Ardito Ramadhan | Editor Bayu Galih // Nasional.kompas.com</a>
+                                    <a href="contohberita.php" class="block text-primary">Kpk Peringatkan Calon Kepala Daerah Soal Kepentingan Sponsor Pilkada Penulis Ardito Ramadhan | Editor Bayu Galih // Nasional.kompas.com</a>
                                 </td>
                             </tr>
                             <tr>
