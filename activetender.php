@@ -1,5 +1,6 @@
 <?php include "template/header.php"; ?>
 <?php include "template/sidebar.php"; ?>
+<?php include "template/topbar-logged.php"; ?>
 <?php include "template/pageheader.php"; ?>
 
 <div class="wrapper wrapper-content">
@@ -23,7 +24,7 @@
                             <a href="activetender_industry.php" class="btn btn-outline b-r-md">Industry</a>
                         </div>
                         <div class="input-group search float-right">
-                            <input type="text" class="form-control">
+                            <input type="text" class="form-control b-r-md">
                             <div class="input-group-append">
                                 <span class="input-group-addon"><i class="fa fa-search"></i></span>
                             </div>

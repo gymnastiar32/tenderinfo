@@ -1,78 +1,87 @@
 <?php include "template/header.php"; ?>
 <?php include "template/sidebar.php"; ?>
+<?php include "template/topbar.php"; ?>
 <?php include "template/pageheader.php"; ?>
 
 <div class="wrapper wrapper-content">
     <div class="row">
         <div class="col-xl-3 col-md-6">
             <div class="ibox">
-                <div class="widget-head-color-box mt-0 white-bg px-3 py-4 text-center">
-                    <div class="row">
-                        <div class="col-md-8 text-left">
-                            <h2 class="font-bold text-primary m-0" style="font-size: 32px; font-weight:800;">27,443</h2>
-                            <span>Total Tenders</span>
-                        </div>
-                        <div class="col-md-4">
-                            <img src="img/briefcase.png" class="widget-image" alt="briefcase">
+                <div class="widget-info">
+                    <div class="widget-head-color-box mt-0 white-bg px-3 py-4 text-center">
+                        <div class="row">
+                            <div class="col-md-8 text-left">
+                                <h2 class="font-bold text-primary m-0" style="font-size: 32px; font-weight:800;">27,443</h2>
+                                <span>Total Tenders</span>
+                            </div>
+                            <div class="col-md-4">
+                                <img src="img/briefcase.png" class="widget-image" alt="briefcase">
+                            </div>
                         </div>
                     </div>
-                </div>
-                <div class="border-top-md white-bg text-center py-2">
-                    <a href="" class="text-primary"><strong>Free Info Tender</strong></a>
+                    <div class="border-top-md white-bg text-center py-2">
+                        <a href="" class="text-primary"><strong>Free Info Tender</strong></a>
+                    </div>
                 </div>
             </div>
         </div>
         <div class="col-xl-3 col-md-6">
             <div class="ibox">
-                <div class="widget-head-color-box mt-0 white-bg px-3 py-4 text-center">
-                    <div class="row">
-                        <div class="col-md-8 text-left">
-                            <h2 class="font-bold text-primary m-0" style="font-size: 32px; font-weight:800;">904</h2>
-                            <span>Active Tenders</span>
-                        </div>
-                        <div class="col-md-4">
-                            <img src="img/chart.png" class="widget-image" alt="chart">
+                <div class="widget-info">
+                    <div class="widget-head-color-box mt-0 white-bg px-3 py-4 text-center">
+                        <div class="row">
+                            <div class="col-md-8 text-left">
+                                <h2 class="font-bold text-primary m-0" style="font-size: 32px; font-weight:800;">904</h2>
+                                <span>Active Tenders</span>
+                            </div>
+                            <div class="col-md-4">
+                                <img src="img/chart.png" class="widget-image" alt="chart">
+                            </div>
                         </div>
                     </div>
-                </div>
-                <div class="border-top-md white-bg text-center py-2">
-                    <a href="" class="text-primary"><strong>More Info</strong></a>
+                    <div class="border-top-md white-bg text-center py-2">
+                        <a href="" class="text-primary"><strong>More Info</strong></a>
+                    </div>
                 </div>
             </div>
         </div>
         <div class="col-xl-3 col-md-6">
             <div class="ibox">
-                <div class="widget-head-color-box mt-0 white-bg px-3 py-4 text-center">
-                    <div class="row">
-                        <div class="col-md-8 text-left">
-                            <h2 class="font-bold text-primary m-0" style="font-size: 32px; font-weight:800;">275</h2>
-                            <span>Today's Tender</span>
-                        </div>
-                        <div class="col-md-4">
-                            <img src="img/file.png" class="widget-image" alt="file">
+                <div class="widget-info">
+                    <div class="widget-head-color-box mt-0 white-bg px-3 py-4 text-center">
+                        <div class="row">
+                            <div class="col-md-8 text-left">
+                                <h2 class="font-bold text-primary m-0" style="font-size: 32px; font-weight:800;">275</h2>
+                                <span>Today's Tender</span>
+                            </div>
+                            <div class="col-md-4">
+                                <img src="img/file.png" class="widget-image" alt="file">
+                            </div>
                         </div>
                     </div>
-                </div>
-                <div class="border-top-md white-bg text-center py-2">
-                    <a href="" class="text-primary"><strong>More Info</strong></a>
+                    <div class="border-top-md white-bg text-center py-2">
+                        <a href="" class="text-primary"><strong>More Info</strong></a>
+                    </div>
                 </div>
             </div>
         </div>
         <div class="col-xl-3 col-md-6">
             <div class="ibox">
-                <div class="widget-head-color-box mt-0 white-bg px-3 py-4 text-center">
-                    <div class="row">
-                        <div class="col-md-8 text-left">
-                            <h2 class="font-bold text-primary m-0" style="font-size: 32px; font-weight:800;">9,386</h2>
-                            <span>Members</span>
-                        </div>
-                        <div class="col-md-4">
-                            <img src="img/members.png" class="widget-image" alt="members">
+                <div class="widget-info">
+                    <div class="widget-head-color-box mt-0 white-bg px-3 py-4 text-center">
+                        <div class="row">
+                            <div class="col-md-8 text-left">
+                                <h2 class="font-bold text-primary m-0" style="font-size: 32px; font-weight:800;">9,386</h2>
+                                <span>Members</span>
+                            </div>
+                            <div class="col-md-4">
+                                <img src="img/members.png" class="widget-image" alt="members">
+                            </div>
                         </div>
                     </div>
-                </div>
-                <div class="border-top-md white-bg text-center py-2">
-                    <a href="" class="text-primary"><strong>Join Us</strong></a>
+                    <div class="border-top-md white-bg text-center py-2">
+                        <a href="" class="text-primary"><strong>Join Us</strong></a>
+                    </div>
                 </div>
             </div>
         </div>
@@ -186,9 +195,9 @@
                             </tbody>
                         </table>
                     </div>
-                </div>
-                <div class="ibox-footer text-center">
-                    <a href="">Tampilkan Semua Info RFI</a>
+                    <div class="text-center py-2 border-top">
+                        <a href="rfi.php">Tampilkan Semua Data RFI</a>
+                    </div>
                 </div>
             </div>
         </div>
@@ -238,7 +247,7 @@
         </div>
     </div>
     <div class="row">
-        <div class="col-md-6">
+        <div class="col-12">
             <div class="ibox">
                 <div class="ibox-title">
                     <h3 class="title">Our Clients</h3>
@@ -249,62 +258,50 @@
                     </div>
                 </div>
                 <div class="ibox-content">
-                    <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
-                        <div class="carousel-inner">
-                            <div class="carousel-item active">
-                                <img class="d-block w-100" src="img/client-tender-info/ancol.png" alt="ancol">
-                            </div>
-                            <div class="carousel-item">
-                                <img class="d-block w-100" src="img/client-tender-info/antam.png" alt="antam">
-                            </div>
-                            <div class="carousel-item">
-                                <img class="d-block w-100" src="img/client-tender-info/asdp.png" alt="asdp">
-                            </div>
-                            <div class="carousel-item">
-                                <img class="d-block w-100" src="img/client-tender-info/askes.png" alt="askes">
-                            </div>
-                            <div class="carousel-item">
-                                <img class="d-block w-100" src="img/client-tender-info/btn.png" alt="btn">
-                            </div>
-                            <div class="carousel-item">
-                                <img class="d-block w-100" src="img/client-tender-info/bukitasam.png" alt="bukitasam">
-                            </div>
-                            <div class="carousel-item">
-                                <img class="d-block w-100" src="img/client-tender-info/express.png" alt="express">
-                            </div>
-                            <div class="carousel-item">
-                                <img class="d-block w-100" src="img/client-tender-info/gresik.png" alt="gresik">
-                            </div>
-                            <div class="carousel-item">
-                                <img class="d-block w-100" src="img/client-tender-info/jams.png" alt="jams">
-                            </div>
-                            <div class="carousel-item">
-                                <img class="d-block w-100" src="img/client-tender-info/mrt.png" alt="mrt">
-                            </div>
-                            <div class="carousel-item">
-                                <img class="d-block w-100" src="img/client-tender-info/patrajasa.png" alt="patrajasa">
-                            </div>
-                            <div class="carousel-item">
-                                <img class="d-block w-100" src="img/client-tender-info/smbr.png" alt="smbr">
-                            </div>
-                            <div class="carousel-item">
-                                <img class="d-block w-100" src="img/client-tender-info/star.png" alt="star">
-                            </div>
-                            <div class="carousel-item">
-                                <img class="d-block w-100" src="img/client-tender-info/wika.png" alt="wika">
-                            </div>
-                        </div>
-                        <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
-                            <div class="carousel-control-icon">
-                                <i class="fa fa-chevron-left"></i>
-                            </div>
-                        </a>
-                        <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
-                            <div class="carousel-control-icon">
-                                <i class="fa fa-chevron-right"></i>
-                            </div>
-                        </a>
-                    </div>
+                    <ul id="lightSlider">
+                        <li>
+                            <img class="d-block w-100" src="img/client-tender-info/ancol.png" alt="ancol">
+                        </li>
+                        <li>
+                            <img class="d-block w-100" src="img/client-tender-info/antam.png" alt="antam">
+                        </li>
+                        <li>
+                            <img class="d-block w-100" src="img/client-tender-info/asdp.png" alt="asdp">
+                        </li>
+                        <li>
+                            <img class="d-block w-100" src="img/client-tender-info/askes.png" alt="askes">
+                        </li>
+                        <li>
+                            <img class="d-block w-100" src="img/client-tender-info/btn.png" alt="btn">
+                        </li>
+                        <li>
+                            <img class="d-block w-100" src="img/client-tender-info/bukitasam.png" alt="bukitasam">
+                        </li>
+                        <li>
+                            <img class="d-block w-100" src="img/client-tender-info/express.png" alt="express">
+                        </li>
+                        <li>
+                            <img class="d-block w-100" src="img/client-tender-info/gresik.png" alt="gresik">
+                        </li>
+                        <li>
+                            <img class="d-block w-100" src="img/client-tender-info/jams.png" alt="jams">
+                        </li>
+                        <li>
+                            <img class="d-block w-100" src="img/client-tender-info/mrt.png" alt="mrt">
+                        </li>
+                        <li>
+                            <img class="d-block w-100" src="img/client-tender-info/patrajasa.png" alt="patrajasa">
+                        </li>
+                        <li>
+                            <img class="d-block w-100" src="img/client-tender-info/smbr.png" alt="smbr">
+                        </li>
+                        <li>
+                            <img class="d-block w-100" src="img/client-tender-info/star.png" alt="star">
+                        </li>
+                        <li>
+                            <img class="d-block w-100" src="img/client-tender-info/wika.png" alt="wika">
+                        </li>
+                    </ul>
                 </div>
             </div>
         </div>

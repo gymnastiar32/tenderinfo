@@ -63,7 +63,6 @@ select.form-control:not([size]):not([multiple]){
 }
 .ibox{
     border-radius: 25px !important;
-    overflow: hidden;
     box-shadow: 0 0 3px 2px #00000010;
 
 }
@@ -71,10 +70,15 @@ select.form-control:not([size]):not([multiple]){
     padding: 10px 25px !important;
     min-height: 0px !important;
     border-width: 0;
+    border-radius: 25px 25px 0 0;
+}
+.ibox.border-bottom .ibox-title{
+    border-radius: 25px !important;
 }
 .ibox-content{
     border-width: 0;
     border-top: 1px solid #e7eaec;
+    border-radius: 0 0 25px 25px;
 }
 .btn{
     padding: 5px 20px;
@@ -97,13 +101,14 @@ select.form-control:not([size]):not([multiple]){
 }
 /* Start Sidebar */
 .nav-header{
-    background-color: white;
+    background-color: #005db5;
     background-image: none;
-    border-radius: 0 60px 0 0 !important;
+    border-radius: 0 60px 0 0;
     box-shadow: 3px -3px 4px -6px #888888;
 }
 body.mini-navbar .nav-header{
-    background-color: white;
+    background-color: #005db5;
+    border-radius: 0;
 }
 .nav.metismenu .header{
     padding: 14px 20px 14px 25px; 
@@ -114,7 +119,7 @@ body.mini-navbar .nav-header{
     text-align: center;
 }
 body.mini-navbar .logo-element-lg{
-    padding: 20px;
+    padding: 15px 5px;
 }
 .nav-header a.dropdown-toggle{
     color: white !important;
@@ -169,6 +174,10 @@ ul.nav-second-level{
     padding-bottom: 0;
     border-radius: 0;
 }
+.widget-info{
+    border-radius: 25px;
+    overflow: hidden;
+}
 .widget-head-color-box{
     border-radius: 0;
 }
@@ -206,5 +215,24 @@ ul.nav-second-level{
 }
 .tools .input-group.search{
     max-width: 200px;
+}
+.kategori-tender a{
+    margin-top: 6px;
+    margin-bottom: 6px;
+}
+.tools .input-group.search{
+    margin-top: 6px;
+    margin-bottom: 6px;
+}
+.tools .input-group.search .input-group-addon{
+    border-radius: 0 6px 6px 0;
+}
+.dataTables_filter .form-control,
+.dataTables_length select.form-control
+{
+    border-radius: 6px;
+}
+.lSAction > a{
+    filter: drop-shadow( 0px 0px 1px #000000 );
 }
 /* End Dashboard */

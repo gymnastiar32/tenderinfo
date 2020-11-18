@@ -103,23 +103,19 @@
                         </li>
                     </ul>
                 </li>
-                <li class="border-left pl-3 pr-3 loginSignup">
-                    <button class="btn btn-outline mr-3 b-r-md dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Sign in</button>
-                    <div class="dropdown-menu b-r-lg dropdown-menu-right px-4 py-4" aria-labelledby="dropdownMenuButton">
-                        <form action="">
-                            <input class="form-control b-r-md mb-2" type="text" placeholder="username">
-                            <input class="form-control b-r-md mb-3" type="password" placeholder="password">
-                        </form>
-                        <div class="action d-flex justify-content-between align-items-center">
-                            <div>
-                                <button class="btn btn-success b-r-md">Sign in</button>
-                            </div>
-                            <a href="#" class="text-muted m-0" style="font-size: 11px;">Forgot Password?</a>
+                <li class="border-left pl-3 pr-3">
+                    <div class="profile-topbar dropdown">
+                        <button class="btn dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            <img src="img/profile_small.jpg" class="img-sm rounded-circle" alt="">
+                            <span class="text-primary font-bold mx-2">Admin</span>
+                            <i class="fa fa-chevron-down text-primary"></i>
+                        </button>
+                        <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                            <a class="dropdown-item py-2 border-bottom" style="min-height:0px;" href="profile.php">Profile</a>
+                            <a class="dropdown-item py-2" style="min-height:0px;" href="login.php">Logout</a>
                         </div>
                     </div>
-                    <button onclick="window.location.href='signup.php'" class="btn btn-success b-r-md">Sign up</button>
                 </li>
-
             </ul>
 
         </nav>

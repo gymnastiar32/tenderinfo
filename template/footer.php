@@ -1,6 +1,6 @@
 <div class="footer">
     <div>
-       <span>Copyright 2020 &copy; <span class="text-primary font-bold"> PT. Anggada Duta Wisesa</span>, All Rights Reserved.</span>
+        <span>Copyright 2020 &copy; <span class="text-primary font-bold"> PT. Anggada Duta Wisesa</span>, All Rights Reserved.</span>
     </div>
 </div>
 
@@ -47,17 +47,22 @@
 <script src="js/plugins/dataTables/datatables.min.js"></script>
 <script src="js/plugins/dataTables/dataTables.bootstrap4.min.js"></script>
 
+<script src="js/plugins/lightslider/lightslider.min.js"></script>
+
 <script>
     $(document).ready(function() {
         $('.table-rfi').DataTable({
             pageLength: 10,
             responsive: true,
             dom: '<"html5buttons"B>lTfgitp',
-            buttons: [
-            ]
+            buttons: []
 
         });
 
+    });
+
+    $(document).ready(function() {
+        $("#lightSlider").lightSlider();
     });
 </script>
 </body>
